@@ -9,10 +9,10 @@ Feel free to contact me for whatever.
 The folder tree will look something like this:
 
 Base Dir.
---Mobile App.
-----SmartHomeAPK.
---Modules.
-----A Dir per room or sub network.
---Folder for 3d prints.
---Documentation.
+Mobile App.
+SmartHomeAPK.
+Modules.
+A Dir per room or sub network.
+Folder for 3d prints.
+Documentation.
 
