@@ -6,9 +6,9 @@ This is something I have been thinking up for a while and think it will be a gre
 Feel free to contact me for whatever.
 
 ## Folder layout
-###The folder tree will look something like this:
+##The folder tree will look something like this:
 
-###Base Dir
+##Base Dir
 Inside the base directory, you will have
 
 Folder for the Mobile App
