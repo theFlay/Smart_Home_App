@@ -8,11 +8,11 @@ Feel free to contact me for whatever.
 ## Folder layout
 The folder tree will look something like this:
 
-##Base Dir
-Inside the base directory, you will have
-
-Folder for the Mobile App
-Folder for the room/area modules
-Folder for 3d prints
-Documentation
+Base Dir
+  Mobile App
+    SmartHomeAPK  
+  Modules
+    A Dir per room or sub network
+  Folder for 3d prints
+  Documentation
 
