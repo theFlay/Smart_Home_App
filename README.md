@@ -77,12 +77,11 @@ The folder tree will look something like this:
 - [ ] Start working on Controller
 	- [ ]  Wiring Diagram
 	- [ ]  Wire up test Module
-	- [ ] 
 
 ## Stage Five - Connection
 - [ ] App/Controller Internet Connection
 	- [ ] Establish Connection
-			- [ ] Make Server if needed
+		- [ ] Make Server if needed
 	- [ ] Document details
 - [ ] Configure Connection
 
