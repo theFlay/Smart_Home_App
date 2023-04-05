@@ -5,7 +5,7 @@ To start this will just be a personal project to controll my Aircon from my phon
 I will however leave room to add other devices or networks to be controlled.
 
 
-##Items that will considured for addition:
+## Items that will considured for addition:
 
 - [ ] Aircon control
 	- [ ] Make a virtual panel
