@@ -14,7 +14,9 @@ I will however leave room to add other devices or networks to be controlled.
 	- [ ] Room temp thresholds
 	- [ ] Read Solar graphs for optimal run times
 		- [ ] Service to share data between apps
+
 - [ ] IOT Remote for Garage Door
+
 - [ ] Control of Fishtanks
 	- [ ] Lights
 	- [ ] Pumps
@@ -23,6 +25,7 @@ I will however leave room to add other devices or networks to be controlled.
 		- [ ] Plumb in tank
 	- [ ] Reading of water condition
 	- [ ] Dosing
+
 - [ ] Control of gardens
 	- [ ] Reading of soil condition
 	- [ ] watering
@@ -96,6 +99,10 @@ The folder tree will look something like this:
 
 ## Stage Seven - The "OH CRAP"
 - [ ] Fix Critical errors
+
+# Round Two
+## Stage One
+- [ ] Plan Round Two
 
 
 
