@@ -7,7 +7,7 @@ I will however leave room to add other devices or networks to be controlled.
 
 ## Items that will considured for addition:
 
-- [ ] Aircon control
+- [ ] ### Aircon control
 	- [ ] Make a virtual panel
 	- [ ] Make timers and Scheduals
 	- [ ] Themomiters in each controllable room
