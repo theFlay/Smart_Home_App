@@ -1,15 +1,15 @@
 # Smart_Home_App
 A Mobile App to control several things around the house
 
-To start this will just be a personal project to controll my Aircon from my phone via the internet.
+To start this will just be a personal project to control my Aircon from my phone via the Internet.
 I will however leave room to add other devices or networks to be controlled.
 
 
-## Items that will considured for addition:
+## Items that will be Considered. for addition:
 
 - [ ] Aircon control
 	- [ ] Make a virtual panel
-	- [ ] Make timers and Scheduals
+	- [ ] Make timers and Schedules
 	- [ ] Themomiters in each controllable room
 	- [ ] Room temp thresholds
 	- [ ] Read Solar graphs for optimal run times
@@ -47,15 +47,15 @@ The folder tree will look something like this:
 - [ ] Plan overview of mobile app
 	- [ ] Scope, Plan, Overview
 	- [ ] GUI
-	- [ ] Work our how to
+	- [ ] Work out how to
 	- [ ] Code Logic
 - [ ] Adjust Plan
 - [ ] Start Documentation
 	- [ ] Class Diagram
 	- [ ] Sequence Diagram 1/2
 
-## Stage Two - Contorller Planning
-- [ ] Plan Ovewview of Controller (per module)
+## Stage Two - Controller Planning
+- [ ] Plan Overview of Controller (per module)
 - [ ] Work our how to
 	- [ ] Powering
 	- [ ] Wiring
@@ -65,12 +65,12 @@ The folder tree will look something like this:
 	- [ ] Sequence Diagram 2/2
 
 ## Stage Three - Connection Planning
-- [ ] Work out how to combine Stage one and Two
+- [ ] Work out how to combine Stages one and Two
 - [ ] If a server is needed:
 	- [ ] Work out how to do that
 	- [ ] Document
 - [ ] Documentation
-- [ ] Impleametation of basic server
+- [ ] Implementation of basic server
 	- [ ] Adapt as needed
 
 ## Stage Four - Foundations
